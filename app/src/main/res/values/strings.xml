@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SamplePostViewer</string>
+    <string name="post_image">Post image</string>
+</resources>
